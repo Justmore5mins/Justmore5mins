@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi There, it's Justmore5mins<br>A senior high schooler in Taiwan who loves coding<br>coding with ![@dkx20080629](https://github.com/dkx20080629) and ![@jacky_wuu](https://github.com/jacky_wuu) at ![@FRC-8569](https://github.com/FRC-8569)
+Hi There, it's Justmore5mins<br>A senior high schooler in Taiwan who loves coding<br>coding with <a herf="https://github.com/dkx20080629">dkx20080629</a> and <a herf="https://github.com/jacky-wuu">jacky-wuu</a> at <a href="https://github.com/FRC8569">FRC-8569</a>
 
 
 ## 🌐 Socials:
